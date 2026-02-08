@@ -1,0 +1,1 @@
+# Alerta-de-Divergencia-Geogr-fica-de-Tendencia
