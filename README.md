@@ -102,3 +102,59 @@ Configurar:
 
 Flavia Hepp
 Proyecto de SQL avanzado aplicado a monitoreo de tendencias y análisis geográfico.
+
+***
+🌍📊 **¿Todos los mercados suben… pero uno no? Ojo con esto.**
+
+En análisis cuantitativo muchas veces miramos activos individuales… pero el verdadero insight aparece cuando levantamos la mirada.
+
+Hoy estuve trabajando en un detector de **divergencias geográficas de tendencia**, y el resultado es bastante potente 👇
+
+La idea es simple pero reveladora:
+
+👉 Medir qué porcentaje de acciones está en tendencia alcista (Precio > SMA 200)
+👉 Comparar cada país contra el promedio global
+👉 Detectar desvíos significativos
+
+---
+
+💡 **¿Por qué importa esto?**
+
+Porque los mercados globales suelen moverse con cierta sincronía.
+Cuando un país se “desacopla”, algo está pasando:
+
+* Cambios macroeconómicos
+* Riesgo político
+* O… una oportunidad antes de que el mercado lo reconozca
+
+---
+
+🚨 **Ejemplo real del insight:**
+
+* USA: 90% de acciones en tendencia alcista
+* Global: 85%
+* País X: 45%
+
+➡️ Esto no es ruido. Es una señal.
+
+---
+
+📈 Este tipo de análisis permite:
+
+* Detectar mercados rezagados (posibles oportunidades)
+* Identificar sobrecalentamientos
+* Mejorar decisiones de asset allocation global
+* Anticipar cambios macro antes que sean evidentes
+
+---
+
+🧠 Lo interesante es cómo algo tan simple como una SMA 200, cuando se escala a nivel global, se convierte en un indicador macro muy potente.
+
+A veces no hace falta más complejidad… sino mejor contexto.
+
+---
+
+Si trabajás con datos de mercado o estás explorando estrategias cuantitativas, este tipo de insights abre muchas puertas 🚀
+
+¿Te interesan este tipo de señales? Puedo compartir más ideas de este estilo.
+
